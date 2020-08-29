@@ -1,0 +1,2 @@
+# Solving_n-Queens_Problem_Using_Genetic_Algorithm_and_Backtracking_Method
+ Final project in Algorithm_Capstone_Design course
